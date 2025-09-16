@@ -1,0 +1,8 @@
+Batch_ID,T80,Smiles,NumRotatableBonds,NumHeteroatoms,TDOS2.5,TDOS3.9
+Test-01,157.67,COC(=O)c3ccc(c2ccc(c1ccco1)cc2)s3,4,4,0.397758088,1.477906337
+Test-02,23.89,CCCCCCc2c(CCCCCC)c(c1cccs1)sc2c3ccc(C(=O)OC)cc3,16,4,0.004862286,3.767226475
+Test-03,32.71,COC(=O)c3ccc(c2ccc(c1cccc(OC)c1)cc2)s3,6,4,0.103557045,4.034441769
+Test-04,55.1,CCCCCCc3csc(c2ccc(c1ccc(C(=O)OC)s1)cc2)c3CCCCCC,16,4,0.092082816,2.770155599
+Test-05,5.67,CCCCCCc1ccsc1c3cc(CCCCCC)c(c2sccc2CCCCCC)s3,20,3,0.997937757,2.984631349
+Test-06,3,c4ccc3c(c1ccncc1)ccc(c2ccncc2)c3c4,2,2,0.036808051,1.681058259
+Test-07,2,c4cc(c2ccc(c1ccncc1)c3nsnc23)ccn4,2,5,1.35E-09,2.152435381

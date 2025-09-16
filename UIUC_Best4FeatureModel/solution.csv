@@ -1,0 +1,12 @@
+Batch_ID,T80,Usage,Predicted by Original 4 features,
+Test-01,157.67,Private,73.0188729Ê ,
+Test-02,23.89,Private,38.25840217,
+Test-03,32.71,Private,44.53743642,
+Test-04,55.1,Private,51.81277419,
+Test-05,5.67,Private,34.1072126Ê ,
+Test-06,3,Private,61.20182086,
+Test-07,2,Private,Ê71.95561836,
+Test-08,4.38,Public,,
+Test-09,20.76,Public,,
+,,,,
+,,Prediction,3.050773884,Mean Squared Log Error
